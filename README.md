@@ -7,7 +7,7 @@ creates a folder for that category (if needed), and moves the file into it.
 
 ## Step 1: Pre Build
 =====================
-Sure! Here is a draft for the `README.md` file for the repository `LLM_Directory_Organizer`:
+`LLM_Directory_Organizer`:
 
 ```markdown
 # LLM Directory Organizer
