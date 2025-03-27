@@ -6,10 +6,84 @@ creates a folder for that category (if needed), and moves the file into it.
 
 
 ## Step 1: Pre Build
+=====================
+Sure! Here is a draft for the `README.md` file for the repository `LLM_Directory_Organizer`:
+
+```markdown
+# LLM Directory Organizer
+
+LLM Directory Organizer is a versatile tool written in multiple programming languages aimed at organizing directories using two different methods. The first method uses a traditional keyword matching algorithm, and the second method leverages several choices of Large Language Models (LLM).
+
+## Features
+
+- **Keyword Matching Algorithm**: A traditional approach to organizing directories based on predefined keywords.
+- **Large Language Model (LLM) Integration**: Organize directories using advanced language models for more intelligent categorization.
+- **Multi-Language Support**: The tool is implemented in multiple languages including C, Python, Shell, PHP, TypeScript, and HTML.
+
+## Language Composition
+
+- **C**: 53.7%
+- **Python**: 20.1%
+- **Shell**: 10.5%
+- **PHP**: 7.9%
+- **TypeScript**: 4.7%
+- **HTML**: 3.1%
+
+## Installation
+
+### Prerequisites
+
+- Ensure you have the required dependencies installed for each language used in the project.
+- For Python, you may need to set up a virtual environment.
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/elithaxxor/LLM_Directory_Organizer.git
+cd LLM_Directory_Organizer
+```
+
+### Setup
+
+#### Python
+
+```bash
+cd python
+pip install -r requirements.txt
+```
+
+#### C
+
+Follow the specific instructions for compiling the C code provided in the `C/` directory.
+
+#### Shell
+
+Ensure you have the necessary permissions to run shell scripts.
+
+#### PHP
+
+Ensure PHP is installed on your system. You can find the PHP code in the `php/` directory.
+
+#### TypeScript and HTML
+
+Set up a local server to serve the TypeScript and HTML files if necessary. The server currently is in the C direcetory. 
+
+
+
+# [TODO]
+### Large Language Model (LLM) Integration
+
+Navigate to the directory containing the LLM integration and run the appropriate script for your environment.
 
 # LLM_basics.py
 
 This script, `LLM_basics.py`, contains various Natural Language Processing (NLP) tasks using the Natural Language Toolkit (NLTK) in Python. Below is a breakdown of the functionalities implemented in this file.
+
+## Usage
+
+### Keyword Matching Algorithm
+
+Navigate to the directory containing the keyword matching algorithm and run the appropriate script for your environment.
 
 ## Functionalities
 
