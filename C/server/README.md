@@ -3,6 +3,12 @@
 
 ```--> output.php or server.php```
 
+Compile the typescrypt so its JS: 
+
+``sh 
+tsc script.ts
+``
+
 Use the built-in PHP server to serve your PHP script:
 ```sh
 php -S localhost:8000
