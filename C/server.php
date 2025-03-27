@@ -2,7 +2,7 @@
 // Path to the compiled C program
 $programPath = './vanilla_organizer';
 
-// Initialize output variable-- theres  only one variable 
+// Initialize output variable
 $output = '';
 
 // Check if the compiled program exists
